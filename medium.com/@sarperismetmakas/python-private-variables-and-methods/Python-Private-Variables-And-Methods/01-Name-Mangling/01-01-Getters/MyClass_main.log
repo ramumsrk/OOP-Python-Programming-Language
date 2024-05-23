@@ -1,0 +1,2 @@
+2024-05-23 19:01:54.1716471114 | root | DEBUG | first_instance.get_private_variable()=42
+2024-05-23 19:01:54.1716471114 | root | DEBUG | first_instance._MyClass__private_variable=42
