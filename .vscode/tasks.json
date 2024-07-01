@@ -15,6 +15,23 @@
         "kind": "build",
         "isDefault": false,
       }
-    }
+    },
+    {
+      "label": "Run test-functions using /usr/local/bin/pytest",
+      "type": "shell",
+      "command": "/usr/local/bin/pytest",
+      "args": [
+        "--verbose",
+        "--verbose",
+        "--verbose",
+        "--verbosity=10",
+        "--rootdir=${workspace}",
+        "${file}",
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    }    
   ]
 }

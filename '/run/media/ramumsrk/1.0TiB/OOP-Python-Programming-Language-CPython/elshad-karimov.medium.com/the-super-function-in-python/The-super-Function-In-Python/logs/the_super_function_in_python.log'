@@ -1,0 +1,13 @@
+Monday, July 01, 2024 11:54:00 IST +0530 | root | DEBUG | Module name is: __name__='example_using_super_in_inheritance'
+Monday, July 01, 2024 11:54:00 IST +0530 | root | DEBUG | Module name is: __name__='example_using_super_in_inheritance.dog'
+Monday, July 01, 2024 11:54:00 IST +0530 | root | DEBUG | Module name is: __name__='example_using_super_in_inheritance.animal'
+Monday, July 01, 2024 11:56:38 IST +0530 | root | DEBUG | Module name is: __name__='example_using_super_in_inheritance'
+Monday, July 01, 2024 11:56:38 IST +0530 | root | DEBUG | Module name is: __name__='example_using_super_in_inheritance.dog'
+Monday, July 01, 2024 11:56:38 IST +0530 | root | DEBUG | Module name is: __name__='example_using_super_in_inheritance.animal'
+Monday, July 01, 2024 11:56:38 IST +0530 | root | DEBUG | Creating a Dog instance
+Monday, July 01, 2024 11:56:38 IST +0530 | root | DEBUG | Initializing a dog instance
+Monday, July 01, 2024 11:58:06 IST +0530 | root | DEBUG | Module name is: __name__='example_using_super_in_inheritance'
+Monday, July 01, 2024 11:58:06 IST +0530 | root | DEBUG | Module name is: __name__='example_using_super_in_inheritance.dog'
+Monday, July 01, 2024 11:58:06 IST +0530 | root | DEBUG | Module name is: __name__='example_using_super_in_inheritance.animal'
+Monday, July 01, 2024 11:58:06 IST +0530 | root | DEBUG | Creating a Dog instance
+Monday, July 01, 2024 11:58:06 IST +0530 | root | DEBUG | Initializing a dog instance
